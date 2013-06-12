@@ -1,0 +1,9 @@
+{
+  "name": "wdmtg-masonry",
+  "version": "2.1.08",
+  "main": "jquery.masonry.min.js",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ]
+}
